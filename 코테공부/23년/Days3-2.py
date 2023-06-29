@@ -10,7 +10,7 @@ def solution(n,m,section):
         
         if done < paint:
             cnt += 1
-            done += adds 
+            done = paint + adds 
 
         if done > n:
             break
