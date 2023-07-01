@@ -7,7 +7,8 @@
 
 # GPU 사용량을 알기위해 Nvidia Drive, CUDA, Cudnn 작업을 진행하였으나 GPU 인식이 안됨
 ## 추가 작업 진행하기로 함 (23.07.01)
-### visual studio 설치부터 하자.
+### visual studio 설치부터 하자.(Python Version과 매칭이 안됨)
+### 추후 포맷한번 진행하면 작업하자. 
 
 
 import psutil # CPU, Memory Resource Extract 
