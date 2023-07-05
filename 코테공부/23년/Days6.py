@@ -7,7 +7,6 @@ def solution(today, terms, privacies):
     base = int(year) * 12 * 28 + int(month) * 28 + int(day)
 
     addmonth = {i.split(' ')[0]:i.split(' ')[1] for i in terms }
-    print(addmonth)
     for i,j in enumerate(privacies):
 
         test = j.split(' ')
