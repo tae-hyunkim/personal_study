@@ -1,3 +1,5 @@
+# 프로그래머스 코딩테스트 연습 Level 1 / 햄버거 만들기
+
 def solution(ingredient):
 
     if len(ingredient) < 4:

@@ -1,3 +1,4 @@
+# 프로그래머스 코딩테스트 연습 Level 1 / 덧칠하기
 # 붓칠하기
 
 def solution(n,m,section):

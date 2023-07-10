@@ -1,3 +1,4 @@
+# 프로그래머스 코딩테스트 연습 Level 1 / 달리기 경주
 players = ["mumu", "soe", "poe", "kai", "mine"]
 
 callings = ["kai", "kai", "mine", "mine"]

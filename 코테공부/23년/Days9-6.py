@@ -1,3 +1,5 @@
+# 프로그래머스 코딩테스트 연습 Level 1 / 옹알이(2)
+
 def solution(babbling):
     answer = 0
     lst = ['aya','ye','woo','ma']

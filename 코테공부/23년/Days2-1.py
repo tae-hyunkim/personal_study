@@ -1,3 +1,5 @@
+# 프로그래머스 코딩테스트 연습 Level 1 / 추억 점수
+
 name = ["may", "kein", "kain", "radi"]
 yearning = [5, 10, 1, 3]
 photo = [["may", "kein", "kain", "radi"],

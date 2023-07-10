@@ -1,3 +1,4 @@
+# 프로그래머스 코딩테스트 연습 Level 1 / 대충 만든 자판
 # 자판 관련 문제 > 한방에 통과 
 
 def solution(keymap, targets):

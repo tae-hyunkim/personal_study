@@ -1,3 +1,4 @@
+# 프로그래머스 코딩테스트 연습 Level 1 /  개인정보 수집 유효기간 
 
 def solution(today, terms, privacies):
     answer = []

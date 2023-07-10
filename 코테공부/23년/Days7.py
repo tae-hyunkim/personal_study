@@ -1,3 +1,4 @@
+# 프로그래머스 코딩테스트 연습 Level 1 / 크기가 작은 부분 문자열
 def solution(t,p):
     answer = 0
 

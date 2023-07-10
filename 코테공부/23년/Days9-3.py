@@ -1,3 +1,5 @@
+# 프로그래머스 코딩테스트 연습 Level 1 / 과일 장수 
+
 from collections import Counter
 
 def solution(k,m,score):

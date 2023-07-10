@@ -1,3 +1,5 @@
+# 프로그래머스 코딩테스트 연습 Level 1 / 기사단원 무기 
+
 # 약수 구하는 Function 
 
 def solution(number, limit, power):

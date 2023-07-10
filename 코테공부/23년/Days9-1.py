@@ -1,3 +1,5 @@
+# 프로그래머스 코딩테스트 연습 Level 1 / 명예의 전당 (1)
+
 def solution(k,score):
     answer = []
 
