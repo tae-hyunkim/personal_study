@@ -1,9 +1,11 @@
 # 프로그래머스 코딩테스트 연습 Level 2 / 리코쳇 로봇
 from collections import deque
 
+# DFS 해결 
 def solution(board):
-
+    # 가고자 하는 방향 Define 
     dirs = [[1,0],[-1,0],[0,1],[0,-1]]
+    # DFS의 경우 도달하는 방향에 횟수비교가 필수 INF로 설정 
     INF = float('inf')
     rows, cols = len(board), len(board[0])
 
