@@ -1,5 +1,5 @@
 # 프로그래머스 코딩테스트 연습 Level 2 / 뒤에 있는 큰 수 찾기 
-
+## stack이라는 기법에대해서 공부하기 
 def solution(numbers):
     answer = [-1] * len(numbers)
     stack = []
