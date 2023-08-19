@@ -17,7 +17,6 @@ def solution(cap, n, deliveries, pickups):
                 cnt += 1 
                 deliver += cap
                 pick += cap 
-                print(deliver, pick, answer )
                 
             deliver -= deliveries[i]
             pick -= pickups[i]
