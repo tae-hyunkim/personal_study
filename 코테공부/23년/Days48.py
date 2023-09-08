@@ -1,6 +1,4 @@
 # 프로그래머스 코딩테스트 연습 Level 2 / 택배 상자
-from collections import deque
-
 def solution(order):
     answer = 0
     lst = []
